@@ -1,6 +1,6 @@
 # Regras de Negócio
 
-## RN01 - Criação de Turmas:
+## RN01 - Criação de Turmas: 
 Apenas usuários com perfil Professor ou Administrador podem criar novas turmas.
 
 ## RN02 - Prazo de Entrega de Atividades:
