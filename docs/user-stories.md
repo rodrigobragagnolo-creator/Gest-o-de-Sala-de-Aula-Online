@@ -66,3 +66,22 @@ Como coordenador, quero gerar relatórios.
 - Apenas coordenadores autorizados podem acessar relatórios.
 - O relatório deve permitir visualizar turmas, atividades e médias.
 - O relatório não deve permitir alteração de notas.
+
+## US08
+Como aluno, quero receber notificações sobre atividades para não perder prazos importantes.
+
+### Critérios de aceitação
+
+- O sistema deve notificar quando uma atividade for publicada.
+- O sistema deve notificar quando uma correção for disponibilizada.
+- A notificação deve estar vinculada à turma e à atividade.
+
+## US09
+Como professor, quero receber sugestões de feedback geradas por IA para acelerar a correção das atividades.
+
+### Critérios de aceitação
+
+- A IA deve atuar apenas como apoio.
+- A nota final deve ser confirmada pelo professor.
+- O professor deve poder editar o feedback sugerido.
+- A sugestão não deve ser enviada automaticamente ao aluno sem revisão humana.
