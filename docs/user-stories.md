@@ -9,7 +9,7 @@ Como professor, quero criar turmas para organizar meus alunos.
 - O sistema deve permitir informar nome e descrição da turma.
 - O sistema deve gerar um código de acesso para alunos.
 - Alunos não podem criar turmas.
-- 
+
 ## US02
 Como professor, quero publicar atividades.
 
@@ -57,7 +57,7 @@ Como aluno, quero visualizar minhas notas.
 - O aluno deve visualizar apenas suas próprias notas.
 - A nota deve estar vinculada a uma atividade e turma.
 - O feedback do professor deve ser exibido quando disponível.
-- 
+
 ## US07
 Como coordenador, quero gerar relatórios.
 
