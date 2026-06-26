@@ -4,12 +4,17 @@ Esta pasta contém toda a documentação textual do projeto **ClassFlow**, inclu
 
 ## Arquivos
 
-- `visao-produto.md` → descrição do problema e solução proposta
-- `stakeholders.md` → identificação dos envolvidos no sistema
-- `regras-negocio.md` → regras que governam o domínio do software
-- `user-stories.md` → requisitos funcionais em formato ágil
-- `mvp.md` → escopo mínimo viável do produto
 - `backlog.md` → lista priorizada de tarefas do projeto
+- `mvp.md` → escopo mínimo viável do produto
+- `regras-negocio.md` → regras que governam o domínio do software
+- `stakeholders.md` → identificação dos envolvidos no sistema
+- `user-stories.md` → requisitos funcionais em formato ágil
+- `visao-produto.md` → descrição do problema e solução proposta
+
+
+
+
+
 
 ## Objetivo
 
