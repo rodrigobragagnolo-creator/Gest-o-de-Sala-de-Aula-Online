@@ -1,7 +1,7 @@
 # Regras de Negócio
 
 ## RN01 - Criação de Turmas: 
-Apenas usuários com perfil Professor ou Administrador podem criar novas turmas.
+Apenas usuários com perfil Professor ou Administrador/TI podem criar novas turmas.
 
 ## RN02 - Prazo de Entrega de Atividades:
 Alunos só podem entregar atividades até a data limite.
@@ -16,7 +16,7 @@ Apenas Coordenadores podem visualizar relatórios.
 Sistema envia notificações automáticas em qualquer alteração de atividade ou mudança de status.
 
 ## RN06 - Limite de Entrega por Atividade:
-Cada aluno possui apenas uma entrega por atividade.
+Cada aluno possui apenas uma entrega por atividade, sem limite máximo de comentários por atividade
 
 ## RN07 - Autenticação de Usuários:
-Usuários precisam estar autenticados para que consigam acessar 
+Usuários precisam estar autenticados para que consigam acessar suas camadas permitidas
