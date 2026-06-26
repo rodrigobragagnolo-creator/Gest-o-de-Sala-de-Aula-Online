@@ -58,7 +58,30 @@ administrador-> governança técnica
 - segurança
 - provisionamento
 
-  Dessa forma, evitamos concentração excessiva de poder em um único papel.
+Dessa forma, evitamos concentração excessiva de poder em um único papel.
+  
+## Casos de uso principais Administrador/TI ##
+Usuário de TI/suporte responsável pela configuração estrutural do sistema, faz a gestão de identidades camadas e papéis, provisionamento de turmas em lotes e auditoria de segurança técnica.
+- gerencia papéis e permissões (UC13)
+- provisiona turmas em lotes (UC14)
+- Auditar logs de acesso e segurança (UC15).
+
+  Fronteira de segurança (RBAC)
+  O ADM possui o nível mais elevado do sistema, mas não pode ler o conteúdo das atividades, submissões de estudantes ou notas individuais, separando muito bem a gestão de administração de infraestrutura e gestão pedagógica.
+PODE GERENCIAR:
+Matriz de papéis, permissões do sistema, atribuição/revogação de papéis a usuários;
+ciclo de vida estrutural de turmas em lote;
+vinculação automática de professores e estudantes apartir de integração com sistema de registro acadêmico.
+PODE AUDITAR:
+logs de acesso ou tentativas bem sucedidas ou negadas, incluso tentativas de violação da RN01 (acesso a turma sem vínculo).
+NÃO PODE: por desenho, não apenas por ausência de casos de uso modelado
+- lançar ou alterar notas;
+- criar ou publicar atividade pedagógica;
+- aprovar retificações extemporâneas que são exclusivas ao coordenador.No caso a RN03 é uma política institucional, não apenas restrição de interface, violar com acesso técnico liberado constitui desvio de processo.
+
+  Nota de design de segurança:
+  A separação entre adm e coordenador reflete o princípio de segregação de funções (separation of duties) mitigando o risco de um único papel ou ator ser capaz de alterar infraestrutura de permissões quanto aprovar excessões de avaliação acadêmica.
+
   
 
 
