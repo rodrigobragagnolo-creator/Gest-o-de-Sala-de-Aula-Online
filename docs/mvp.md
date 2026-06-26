@@ -9,3 +9,4 @@
 - Corrigir atividade
 - Lançar notas
 - Notificações básicas
+- Criação de Dashboards
