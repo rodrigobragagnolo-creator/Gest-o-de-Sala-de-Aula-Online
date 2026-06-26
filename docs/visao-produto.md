@@ -11,8 +11,8 @@ Essa fragmentação gera diversos problemas, entre eles:
 - Maior chance de erros administrativos;
 - Retrabalho para professores e coordenadores.
 
-Além disso, a ausência de uma plataforma unificada dificulta o acompanhamento do desempenho dos alunos, o controle de prazos de entrega e a análise de indicadores acadêmicos.
+Além disso, a ausência de uma plataforma unificada dificulta o acompanhamento do desempenho dos alunos, o controle de prazos de entrega, a análise de indicadores acadêmicos.
 
 ## Solução Proposta
 
-O projeto propõe o desenvolvimento do **ClassFlow**, um sistema de gestão de sala de aula online inspirado em plataformas como Google Classroom.
+O projeto propõe o desenvolvimento do **ClassFlow**, um sistema de gestão de sala de aula online inspirado em plataformas como Google Classroom, gerando a centralização de informações, possibilitando a criação de uma acervo por aluno e a construção de um acervo academico por turmas ou matérias.
