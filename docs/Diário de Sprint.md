@@ -40,11 +40,9 @@ A funcionalidade inovadora escolhida foi a correção assistida por IA, mas mant
 
 4. Dificuldades encontradas
 
-| Dificuldade
+| Falta de padronização inicial dos tipos de documentos e níveis de acessos
 
-| Falta de padronização inicial dos documentos 
-
-| Integração entre regras, requisitos, BPMN e arquitetura
+| Integração entre regras, requisitos, BPMN, UML  e arquitetura
 
 | Organização dos diagramas | Alguns arquivos estavam com nomes diferentes dos esperados
 
