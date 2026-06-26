@@ -4,7 +4,7 @@ Esta pasta contém diagramas UML do sistema.
 
 ## Objetivo
 
-Representar graficamente a interação entre atores e funcionalidades principais do software.
+Representar graficamente a interação entre atores e funcionalidades principais do software, fomentar as regras de negócio e a aplicabilidade do produto, conforme camadas de segurança pré-definidas pelo administrador/TI 
 
 ## Diagramas
 
@@ -15,7 +15,7 @@ Representar graficamente a interação entre atores e funcionalidades principais
 - Aluno
 - Professor
 - Coordenador
-- Administrador
+- Administrador/TI
 
 ## Casos de uso principais
 
