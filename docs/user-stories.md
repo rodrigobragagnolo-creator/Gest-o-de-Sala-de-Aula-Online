@@ -24,7 +24,7 @@ Como professor, quero publicar atividades.
 Como aluno, quero entrar em uma turma usando código.
 
 ### Critérios de aceitação
-
+- O aluno deve estar matrículado e com o cadastro aprovado e vigente.
 - O aluno deve estar autenticado.
 - O código informado deve existir e estar ativo.
 - O aluno não deve ser incluído duas vezes na mesma turma.
@@ -38,6 +38,7 @@ Como aluno, quero enviar atividades.
 - O aluno deve pertencer à turma da atividade.
 - O sistema deve registrar data e horário da entrega.
 - Cada aluno deve ter apenas uma entrega ativa por atividade.
+- O aluno pode atribuir comentários vinculados ao seu trabalho.
 
 ## US05
 Como professor, quero corrigir atividades.
@@ -66,6 +67,7 @@ Como coordenador, quero gerar relatórios.
 - Apenas coordenadores autorizados podem acessar relatórios.
 - O relatório deve permitir visualizar turmas, atividades e médias.
 - O relatório não deve permitir alteração de notas.
+- O relatório não deve permitir acesso as feedbacks dos alunos feito pelos professores e comentários de alunos na entrega de trabalhos.
 
 ## US08
 Como aluno, quero receber notificações sobre atividades para não perder prazos importantes.
