@@ -11,7 +11,7 @@ Organizar, modelar e documentar a proposta do **ClassFlow**, um Sistema de Gest�
 
 Alexandre Mayer da Rosa | Apoio na visão do produto, stakeholders e revisão da apresentação. 
 
-Alterson Alberto de Mello Marques | Apoio nas regras de negócio, montagem do UML e conformidade com as regras de negócio e BPMN, user stories e backlog. 
+Alterson Alberto de Mello Marques | Apoio nas regras de negócio, montagem do UML em conformidade com as regras de negócio , revisão do BPMN, user stories e backlog. 
 
 Otávio Cozer Gnoatto | Apoio no BPMN e organização visual dos diagramas. 
 
