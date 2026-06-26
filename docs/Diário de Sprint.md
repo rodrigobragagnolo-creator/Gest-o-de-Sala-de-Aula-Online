@@ -40,12 +40,16 @@ A funcionalidade inovadora escolhida foi a correção assistida por IA, mas mant
 
 4. Dificuldades encontradas
 
-| Dificuldade | Impacto | Solução adotada |
+| Dificuldade
 
 | Falta de padronização inicial dos documentos 
+
 | Integração entre regras, requisitos, BPMN e arquitetura
+
 | Organização dos diagramas | Alguns arquivos estavam com nomes diferentes dos esperados
+
 | Tempo curto para consolidar o trabalho 
+
 | Evidência de colaboração, as atividades não foram distribuidas antes de iniciar o projeto
 
 
