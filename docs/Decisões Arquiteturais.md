@@ -16,7 +16,7 @@ Decisão: o sistema terá autenticação de usuários e controle de acesso por p
 
 Justificativa: diferentes usuários possuem permissões diferentes. Por exemplo, apenas professores podem criar atividades, estudantes podem entregar atividades e administradores podem gerenciar usuários.
 
-Impacto: atende requisitos de segurança e garante que cada usuário acesse apenas as funcionalidades permitidas ao seu papel.
+Impacto: atende requisitos de segurança e garante que cada usuário acesse apenas as funcionalidades permitidas ao seu papel, gerando restrição de vínculo por perfil.
 
 
 
