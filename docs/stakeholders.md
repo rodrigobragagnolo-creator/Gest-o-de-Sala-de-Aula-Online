@@ -15,6 +15,10 @@
 ## Coordenadores
 - Monitoram desempenho
 - Geram relatórios
+- Abraangem múltiplos professores
 
-## Administradores
+## Administradores/TI
 - Gerenciam usuários e permissões
+- Faz a gestão de identidades e papéis
+- Provisionamento e ciclo de vida de turmas em lote
+- Auditam logs de acesso e segurança
